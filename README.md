@@ -1,4 +1,4 @@
-### Hi there 👋
+# Kaha Mason
 
 [![](https://img.shields.io/badge/-@kahamason-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/kahamason)](https://github.com/kahamason)
 [![](https://img.shields.io/badge/-@kahasmason-1a8cd8?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/kahasmason)](https://twitter.com/kahasmason)
